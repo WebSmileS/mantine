@@ -23,6 +23,7 @@
     "paths": {
       "@mantine/core": ["../mantine-core/src"],
       "@mantine/dates": ["../mantine-dates/src"],
+      "@mantine/table": ["../mantine-table/src"],
       "@mantine/hooks": ["../mantine-hooks/src"],
       "@mantine/prism": ["../mantine-prism/src"],
       "@mantine/dropzone": ["../mantine-dropzone/src"],
@@ -34,6 +35,7 @@
   "references": [
     { "path": "../mantine-core" },
     { "path": "../mantine-dates" },
+    { "path": "../mantine-table" },
     { "path": "../mantine-hooks" },
     { "path": "../mantine-prism" },
     { "path": "../mantine-dropzone" },

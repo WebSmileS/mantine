@@ -1,0 +1,22 @@
+{
+  "name": "@mantine/table",
+  "description": "Table based on Mantine components",
+  "version": "3.6.9",
+  "main": "cjs/index.js",
+  "module": "esm/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "author": "Robin Wieruch <hello@rwieruch.com>",
+  "homepage": "https://mantine.dev/table/getting-started/",
+  "keywords": [
+    "react", "next", "nextjs", "ui", "components", "ui-kit", "library", "frontend", "table", "reract-table-library"
+  ],
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "styled-components": ">=4",
+    "@mantine/core": "3.6.9",
+    "@table-library/react-table-library": ">=1.17.6"
+  },
+  "devDependencies": {
+  }
+}

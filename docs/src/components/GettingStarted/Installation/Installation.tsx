@@ -14,6 +14,7 @@ export function Installation({ setDependencies }: InstallationProps) {
     '@mantine/hooks': true,
     '@mantine/core': true,
     '@mantine/dates': false,
+    '@mantine/table': false,
     '@mantine/notifications': false,
     '@mantine/prism': false,
     '@mantine/rte': false,

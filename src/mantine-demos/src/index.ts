@@ -101,6 +101,9 @@ export * as RangeCalendarDemos from './demos/packages/RangeCalendar';
 export * as TimeInputDemos from './demos/packages/TimeInput';
 export * as TimeRangeInputDemos from './demos/packages/TimeRangeInput';
 
+// @mantine/table
+export * as MantineTableDemos from './demos/packages/MantineTable';
+
 // Other packages
 export * as DropzoneDemos from './demos/packages/Dropzone';
 export * as NotificationsDemos from './demos/packages/Notifications';

@@ -15,6 +15,16 @@ export const PACKAGES_DATA = [
     dependencies: ['@mantine/hooks', '@mantine/core', '@mantine/dates', 'dayjs'],
   },
   {
+    package: '@mantine/table',
+    description: 'Table component',
+    dependencies: [
+      '@mantine/core',
+      '@mantine/table',
+      '@table-library/react-table-library',
+      'styled-components',
+    ],
+  },
+  {
     package: '@mantine/notifications',
     description: 'Notifications system',
     dependencies: ['@mantine/hooks', '@mantine/core', '@mantine/notifications'],

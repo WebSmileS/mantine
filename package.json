@@ -134,6 +134,7 @@
     "@popperjs/core": "^2.9.3",
     "@primer/octicons-react": "^14.2.1",
     "@radix-ui/react-scroll-area": "^0.1.1",
+    "@table-library/react-table-library": "^1.17.6",
     "clsx": "^1.1.1",
     "csstype": "^3.0.9",
     "dayjs": "^1.10.5",
@@ -148,6 +149,7 @@
     "react-router-dom": "^5.2.0",
     "react-textarea-autosize": "^8.3.2",
     "react-transition-group": "^4.4.2",
+    "styled-components": "^5.3.3",
     "stylis-plugin-rtl": "^2.1.1",
     "tabler-icons-react": "^1.35.0"
   }

@@ -19,5 +19,6 @@ export const CATEGORIZED = [
   MANTINE_HOOKS_CATEGORIZED,
   MANTINE_CORE_CATEGORIZED,
   { group: 'mantine-dates', categories: {}, order: [] },
+  { group: 'mantine-table', categories: {}, order: [] },
   { group: 'Other packages', categories: {}, order: [] },
 ];

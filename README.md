@@ -27,6 +27,7 @@
 - [`@mantine/rte`](https://mantine.dev/others/rte/) – a Quill based rich text editor
 - [`@mantine/dropzone`](https://mantine.dev/others/dropzone/) – manages files drag 'n' drop to an area or entire screen
 - [`@mantine/modals`](https://mantine.dev/others/modals/) – centralized modals manager
+- [`@mantine/table`](https://mantine.dev/table/getting-started/) – a fully featured table component
 - [`@mantine/ssr`](https://mantine.dev/theming/ssr/) – server side rendering utilities
 - [`@mantine/next`](https://mantine.dev/theming/next/) – server side rendering utilities for Next.js
 - [`gatsby-plugin-mantine`](https://mantine.dev/theming/gatsby/) – Gatsby plugin to setup server side rendering

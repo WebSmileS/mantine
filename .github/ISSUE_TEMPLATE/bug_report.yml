@@ -16,6 +16,7 @@ body:
         - '@mantine/dates'
         - '@mantine/hooks'
         - '@mantine/notifications'
+        - '@mantine/table'
         - '@mantine/rte'
         - '@mantine/prism'
         - '@mantine/modals'

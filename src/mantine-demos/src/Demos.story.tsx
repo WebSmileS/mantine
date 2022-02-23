@@ -90,6 +90,9 @@ attachDemos(storiesOf('@mantine/dates/RangeCalendar/demos', module), demos.Range
 attachDemos(storiesOf('@mantine/dates/TimeInput/demos', module), demos.TimeInputDemos);
 attachDemos(storiesOf('@mantine/dates/TimeRangeInput/demos', module), demos.TimeRangeInputDemos);
 
+// @mantine/table
+attachDemos(storiesOf('@mantine/table/MantineTable/demos', module), demos.MantineTableDemos);
+
 // Other packages
 attachDemos(storiesOf('@mantine/dropzone/Dropzone/demos', module), demos.DropzoneDemos);
 attachDemos(storiesOf('@mantine/notifications/demos', module), demos.NotificationsDemos);
